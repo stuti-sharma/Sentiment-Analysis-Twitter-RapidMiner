@@ -1,0 +1,10 @@
+# Sentiment-Analysis-Twitter-RapidMiner
+Social media is a great platform for the customers to express their views, opinions, and sentiments. Twitter is one of the widely used social websites to shape the opinion of the people and influence the brand's perception. The goal of the project is to build a model for the two major U.S Airlines: Delta and Southwest, to perform sentiment analysis on the customer’s tweets using the Rapid Miner tool. By doing so, the airlines can gain an insight of the wider public opinion behind certain positive and negative tweets. The Twitter U.S Airlines dataset has been taken from Kaggle website, which consists 2932 tweets with positive and negative polarities. In the paper, Decision Tree has a maximum accuracy of 76.43 % among the various other algorithms like Random Tree, Naïve Bayes, and K-NN. Performed clustering and association analysis on word vectors to identify similar word vectors and to find common themes that occur frequently across the word vectors respectively. 
+### Goal
+The objective of the project is 1) to use machine learning algorithms to predict whether the tweet is “positive” or “negative” by analyzing the feelings of the passengers. 2) Determine the best model to assign the sentiment (“positive” or “negative”) to the test data. 
+### Tool
+I have chosen Rapid Miner Studio 8.1 for the text mining and sentiment analysis because it has more than 100 learning operators and easy framework for the beginners like effortless installation, attractive and clear user interface. Rapid Miner has enormous flexibility in process designs e.g. dragging and dropping of the operators in the process window.
+•	Rapid Miner Auto Model suggests various operators to the user based on the processes used by other data miners to build the model.
+•	The user can visualize the end to end data preparation and modeling steps by seeing the simple statistics, charts, tables, and graphs.
+•	Rapid Miner can read and load various types of data formats like excel, csv, arff, XML, HTML etc.
+•	The user can download various extensions from Rapid Miner Marketplace for free.
